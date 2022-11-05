@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+}
+
+.bord {
+    border-left: solid;
+}
+
+#nahla {
+    list-style-image: url(puce.png);
+}
+
+
+section {
+    background-color: gold;
+    padding: 50px;
+    margin: 0px 230px 0px 230px;
+}
+
+body {
+    background-color: lightyellow;
+
+}
+
+.dive {
+
+    background-image: url(Pp.png);
+    text-align: center;
+    height: 200px;
+
+    background-repeat: repeat-x;
+}
+
+.lien {
+    border-left: 10px solid rgb(254, 136, 1);
+    border-bottom: 3px dotted rgb(254, 136, 1);
+    width: 200px;
+    margin: 5px;
+}
+
+#lien2 {
+    list-style-type: none;
+
+
+}
+
+#tit {
+
+    letter-spacing: 15px;
+    color: gold;
+    width: 50%;
+    margin: auto;
+    background-color: rgb(254, 136, 1);
+    text-align: center;
+
+}
+
+nav {
+
+    margin: 0px 200px 0px 200px;
+
+}
+
+.lien3 {
+    color: rgb(254, 136, 1);
+}
+
+.container {
+    background: url(natural.jpg) no-repeat left;
+    position: absolute;
+    background-attachment: fixed;
+}
+
+.tst {
+    text-decoration: none ;
+    color: white;
+    /*border: solid 3px #DAA520;*/
+    background-color: #DAA520;
+border-bottom: 3px solid #AB9000;
+border-left: 2px solid gold;
+border-top: 3px solid gold ;
+border-right: 3px solid #AB9000;
+padding: 2px;
+    /*box-shadow: inset 10px 10px 10px  #DAA520, 
+            2px 2px 2px 2px #AB9000 ;
+           box-shadow: 0 4px 4px  #DAA520;
+           box-shadow:10px 5px 5px  #AB9000; */
+    /*box-shadow: rgba(0, 0, 0, 15) 4px 5px 0px;*/
+
+}
